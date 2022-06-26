@@ -1,3 +1,15 @@
+# What does it consist of?
+This project has been developed by a group of 6 people, in 3 software engineering courses, in the subject "SOFTWARE PROCESS AND MANAGEMENT II".
+For this we have developed this project, emphasizing the organization and documentation of the project, using the scrum methodology.
+For this, in each sprint we have been creating documents such as the following:
+ -CA capacity and risk analysis.
+ -Contract with the client.
+ -Monitoring of the agreement with the client.
+ -Source code analysis and associated metrics.
+Among many other documents, which are in the folder documentation.
+
+
+
 # Spring PetClinic Sample Application 
 
 This is a fork of https://github.com/spring-projects/spring-petclinic to be used for the PSG2 course. The main changes that have been performed were:
