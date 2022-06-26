@@ -1,0 +1,34 @@
+project:
+  name: 'PSG2-2021-G6-63 Petclinic'
+  owner: 'L6'
+  teamId: '63'
+  identities:
+    github:
+      url: 'https://github.com/gii-is-psg2/psg2-2122-g6-63'
+    heroku: 
+      url: 'https://psg2-2122-g6-63.herokuapp.com'
+  members:
+    member1:
+      name: 'Luis'
+      surname: 'Cerrato ' 
+      githubUsername: 'luicersan'
+    member2:
+      name: 'Carmen'
+      surname: 'Galvan'
+      githubUsername: 'carmengl00'
+    member3:
+      name: 'Ezequiel'
+      surname: 'Gonzalez'
+      githubUsername: 'ezegonmac'
+    member4:
+      name: 'Antonio'
+      surname: 'Quijano'
+      githubUsername: 'antquiher'
+    member5:
+      name: 'Juan'
+      surname: 'Salado'
+      githubUsername: 'juradosalado'
+    member6:
+      name: 'Alvaro'
+      surname: 'Ubeda'
+      githubUsername: 'alvuberui'
